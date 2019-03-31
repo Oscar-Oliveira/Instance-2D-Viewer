@@ -10,4 +10,4 @@ Example data contains 5 instances from:
 
 [Screenshot](https://github.com/Oscar-Oliveira/InstanceViewer2D/blob/master/images/InstanceViewer.png)
 
-Live: [https://oscar-oliveira.github.io/Instance-2D-Viewer/]{https://oscar-oliveira.github.io/Instance-2D-Viewer/}
+Live: [https://oscar-oliveira.github.io/Instance-2D-Viewer/](https://oscar-oliveira.github.io/Instance-2D-Viewer/)
